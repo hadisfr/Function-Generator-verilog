@@ -1,0 +1,12 @@
+*.qpf linguist-language=AlteraQuartusII
+*.qdz linguist-language=AlteraQuartusII
+*.vho linguist-language=AlteraQuartusII
+*.jdi linguist-language=AlteraQuartusII
+*.vwf linguist-language=AlteraQuartusII
+*.qip linguist-language=AlteraQuartusII
+*.bsf linguist-language=AlteraQuartusII
+*.bdf linguist-language=AlteraQuartusII
+*.regmap linguist-language=AlteraQuartusII
+*.qsf linguist-language=AlteraQuartusII
+*.jic linguist-language=AlteraQuartusII
+*.ekp linguist-language=AlteraQuartusII
